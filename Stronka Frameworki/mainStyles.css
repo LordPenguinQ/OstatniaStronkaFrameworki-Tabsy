@@ -1,0 +1,83 @@
+.homeContainer {
+    color: rebeccapurple;
+}
+
+h1 {
+    background-color: rebeccapurple;
+    color: aliceblue;
+}
+
+.menuBarContainer {
+    background-color: rebeccapurple;
+}
+
+.menuItem:hover {
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+#logInForm{
+    width: 200px;
+    background-color: indigo;
+    color: white;
+}
+#emailInputField, #passwordInputField{
+    color: purple;
+    background-color: skyblue;
+}
+#emailInputField:hover, #passwordInputField:hover{
+    background-color: lightcyan;
+}
+#buttonInputField{
+    background-color: dodgerblue;
+    color:rebeccapurple;
+    font-weight: 700;
+}
+#buttonInputField:hover{
+    background-color: mintcream;
+}
+.loginAddons{
+    border: 1.2px solid black;
+    border-radius: 12px;
+    text-align: center;
+    background-color: mediumpurple;
+    color: darkblue;
+    font-weight: bold;
+}
+.loginAddons:hover{
+    background-color: dodgerblue;
+}
+.travel{
+    color: rebeccapurple;
+}
+.text-kolejny{
+    color: white;
+}
+.btn-travel{
+    background: rebeccapurple;
+    color: white;
+    box-shadow: -3px 2px 2px gray;
+    border: .4px solid rebeccapurple;
+}
+.btn-travel:hover{
+    background: lightskyblue;
+    color: rebeccapurple;
+    border: .4px solid rebeccapurple;
+}
+.registry{
+    color: rebeccapurple;
+}
+.switch-moj{
+    color: rebeccapurple;
+}
+.karuzela img{
+    height:600px;
+
+}
+.repurple{
+    background-color: rebeccapurple;
+}
+.own_cards{
+    background-color: ghostwhite;
+    border: 1px solid rebeccapurple;
+    border-radius: 6px;
+}
